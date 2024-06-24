@@ -21,5 +21,8 @@ The dashboard should provide real-time insights into key performance indicators 
 
 ## Overall ##
 * The car dealership has a good performance throughout the year.
-* Further improvment to be made: Identify the trends/reason behind the increased in sales in weeks 32 to 36 and the dip in week 40. 
+* Further improvment to be made: Identify the trends/reason behind the increased in sales in weeks 32 to 36 and the dip in week 40.
+
+## Dashboard Visualisation ## 
+https://project.novypro.com/ZzjtUq
 ****
